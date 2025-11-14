@@ -1,7 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFE600&width=700&lines=Hi%2C+I%27m+Sakthi+Velan.T%F0%9F%91%8B;Full-Stack+Developer+%26+Problem+Solver;Building+Real+time+Websites)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14,00FFFF,FF10F0,FFD700&width=750&lines=Hi%2C+I'm+Sakthi+Velan.T;Creative+Full-Stack+Developer;Transforming+Ideas+Into+Code+✨)
+
 
 ---
-## 🖼️ Portfolio Preview 
+<h1 align="center">🖼️ Portfolio Preview </h1>
 
 <p align="center">
   <a href="https://sakthivelan.pythonanywhere.com/" target="_blank">
@@ -15,7 +16,7 @@
 ---
 
 
-## 🌐 Live Portfolio
+<h1 align="center">🌐 Live Portfolio</h1>
 
 🎉 My personal portfolio is now live!  
 Visit it here 👉 **[https://sakthivelan.pythonanywhere.com/](https://sakthivelan.pythonanywhere.com/)**  
@@ -49,7 +50,7 @@ Visit it here 👉 **[https://sakthivelan.pythonanywhere.com/](https://sakthivel
 
 ---
 
-## ⚙️ Technical Skills
+<h1 align="center"> ⚙️ Technical Skills </h1>
 
 ### 🎨 Frontend & Frameworks  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -110,7 +111,7 @@ Visit it here 👉 **[https://sakthivelan.pythonanywhere.com/](https://sakthivel
 
 
 
-### 🌐 Connect With Me  
+<h1 align="center">🌐 Connect With Me</h1>
 [![GitHub](https://img.shields.io/badge/GitHub-sakthivelan04-181717?style=for-the-badge&logo=github)](https://github.com/sakthivelan04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakthi%20Velan.T-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-sakthivelanofficial04%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sakthivelanofficial04@gmail.com) 
