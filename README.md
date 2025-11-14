@@ -1,12 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFE600&width=700&lines=Hi%2C+I%27m+Sakthi+Velan.T%F0%9F%91%8B;Frontend+Developer+%26+Problem+Solver;Building+Real+time+Websites)
 
 ---
-## 🖼️ Portfolio Preview 
+## 🖼️ Portfolio Showcase  
 
 <p align="center">
   <a href="https://sakthivelan.pythonanywhere.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" 
-         alt="Sakthi Velan Portfolio Preview" width="80%" style="border-radius:15px;box-shadow:0 0 10px rgba(0,0,0,0.2);" />
+    <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio1.png" alt="Portfolio Screenshot 1" width="300" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio2.png" alt="Portfolio Screenshot 2" width="300" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio3.png" alt="Portfolio Screenshot 3" width="300" style="border-radius:10px;">
+    </div>
   </a>
 </p>
 
