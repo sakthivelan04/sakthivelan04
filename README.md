@@ -31,6 +31,15 @@ Visit it here 👉 **[https://sakthivelan.pythonanywhere.com/](https://sakthivel
 ---
 
 ### 👨‍💻 About Me
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/sv1.png" 
+       alt="Sakthi Velan Profile Picture" 
+       width="180" 
+       style="border-radius:50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
+</p>
+
 - 🎓 I’m a **Computer Science student** 
 - 🌱 Currently exploring **Full-Stack Development**
 - 💡 I love turning ideas into **interactive web applications**
