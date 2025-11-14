@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFE600&width=700&lines=Hi%2C+I%27m+Sakthi+Velan.T%F0%9F%91%8B;Frontend+Developer+%26+Problem+Solver;Building+Real+time+Websites)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFE600&width=700&lines=Hi%2C+I%27m+Sakthi+Velan.T%F0%9F%91%8B;Full-Stack+Developer+%26+Problem+Solver;Building+Real+time+Websites)
 
 ---
 ## 🖼️ Portfolio Preview 
