@@ -6,9 +6,12 @@
 <p align="center">
   <a href="https://sakthivelan.pythonanywhere.com/" target="_blank">
     <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 1" width="300" style="border-radius:10px;">
-      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 2" width="300" style="border-radius:10px;">
-      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 3" width="300" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 1" width="300" style="border-radius:10px;"
+        alt="Sakthi Velan Portfolio Slider" width="80%" style="border-radius:15px;box-shadow:0 0 10px rgba(0,0,0,0.25);" />
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 2" width="300" style="border-radius:10px;"
+        alt="Sakthi Velan Portfolio Slider" width="80%" style="border-radius:15px;box-shadow:0 0 10px rgba(0,0,0,0.25);" />
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 3" width="300" style="border-radius:10px;"
+        alt="Sakthi Velan Portfolio Slider" width="80%" style="border-radius:15px;box-shadow:0 0 10px rgba(0,0,0,0.25);" />
     </div>
   </a>
 </p>
