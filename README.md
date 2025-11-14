@@ -40,14 +40,7 @@ Visit it here 👉 **[https://sakthivelan.pythonanywhere.com/](https://sakthivel
        style="border-radius:50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
 </p>
 
-- 🎓 I’m a **Computer Science student** 
-- 🌱 Currently exploring **Full-Stack Development**
-- 💡 I love turning ideas into **interactive web applications**
-- 🧠 Interested in **AI, Cloud, and Real-Time Systems**
-- 💬 Ask me about **Python, Django, and Web Development**
-- 📫 Reach me at: **svelan004@gmail.com**
-- ⚡ Fun fact: I debug with snacks 🍪 and code with coffee ☕   
-
+<p align="center"> <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/sv1.png" alt="Sakthi Velan Profile Picture" width="180" style="border-radius:50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" /> </p> <p align="center"> 🎓 I’m a <b>Computer Science student</b> and a passionate <b>Full-Stack Developer</b> <br>💻 Skilled in <b>Frontend (HTML, CSS, JS, Bootstrap)</b> and <b>Backend (Python, Django, Flask)</b> <br>🧠 Exploring <b>AI</b>, <b>Cloud</b>, and <b>Scalable Web Systems</b> <br>🎨 I love designing <b>clean, interactive, and responsive web apps</b> <br>📫 Reach me at: <b>sakthivelanofficial04@gmail.com</b> <br>☕ Fun fact: I debug better with <b>coffee + chill beats 🎧</b> </p>
 
 ---
 
