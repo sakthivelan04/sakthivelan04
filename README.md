@@ -1,15 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFE600&width=700&lines=Hi%2C+I%27m+Sakthi+Velan.T%F0%9F%91%8B;Frontend+Developer+%26+Problem+Solver;Building+Real+time+Websites)
 
 ---
-
-## 🖼️ Portfolio Preview
+## 🖼️ Portfolio Preview 
 
 <p align="center">
   <a href="https://sakthivelan.pythonanywhere.com/" target="_blank">
-    <img src="https://sakthivelan.pythonanywhere.com/workflows/portfolio.png" 
+    <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" 
          alt="Sakthi Velan Portfolio Preview" width="80%" style="border-radius:15px;box-shadow:0 0 10px rgba(0,0,0,0.2);" />
   </a>
 </p>
+
 
 ---
 
