@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://sakthivelan.pythonanywhere.com/" target="_blank">
-    <img src="https://sakthivelan.pythonanywhere.com/.github/workflows/portfolio.png" 
+    <img src="https://sakthivelan.pythonanywhere.com/workflows/portfolio.png" 
          alt="Sakthi Velan Portfolio Preview" width="80%" style="border-radius:15px;box-shadow:0 0 10px rgba(0,0,0,0.2);" />
   </a>
 </p>
