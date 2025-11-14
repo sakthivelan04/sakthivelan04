@@ -6,9 +6,9 @@
 <p align="center">
   <a href="https://sakthivelan.pythonanywhere.com/" target="_blank">
     <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio1.png" alt="Portfolio Screenshot 1" width="300" style="border-radius:10px;">
-      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio2.png" alt="Portfolio Screenshot 2" width="300" style="border-radius:10px;">
-      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio3.png" alt="Portfolio Screenshot 3" width="300" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 1" width="300" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 2" width="300" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/sakthivelan04/sakthivelan04/main/.github/workflows/portfolio.png" alt="Portfolio Screenshot 3" width="300" style="border-radius:10px;">
     </div>
   </a>
 </p>
