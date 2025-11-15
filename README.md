@@ -121,8 +121,8 @@ Visit it here 👉 **[https://sakthivelan.pythonanywhere.com/](https://sakthivel
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sakthi%20Velan.T-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sakthivelanofficial04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sakthivelanofficial04%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="mailto:svelan004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-svelan004%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
